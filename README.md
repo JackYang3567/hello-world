@@ -1,6 +1,7 @@
 # hello-world
 Functional programming with new JavaScript features.
-使用JavaScript新特性的函数式编程。
+The React server side rendering.
+(使用JavaScript新特性的函数式编程。React的服务器端渲染)
 
 ## Variable declarations in ES6.（ES6中变量的声明）
 ### The keyword const（关键字const）
